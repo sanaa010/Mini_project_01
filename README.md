@@ -123,18 +123,6 @@ The project includes the following visualizations:
 - Correlation analysis highlights relationships among violations, penalties, and risk scores.
 
 
-# 📁 Project Structure
-
-```
-Multi-Agency-Violators/
-│
-├── multi_agency_violators.csv
-├── Mini_Project_01.ipynb
-├── README.md
-```
-
----
-
 # ▶️ How to Run
 
 1. Clone this repository.
